@@ -736,7 +736,7 @@
                 }
               ],
               "url": "https://services.ga.gov.au/gis/rest/services/NAIF_Act_2016_Northern_Australia_Definition/MapServer",
-              "layers": "Northern_Australia_Infrastructure_Facility_Act_2016_Northern_Australia_Definition,No_Data",
+              "layers": "0",
               "id": "VjBDK3Q5",
               "shareKeys": [
                 "Root Group/National Datasets/Framework/Northern Australia Infrastructure Facility Boundary"
